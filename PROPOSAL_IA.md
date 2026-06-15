@@ -30,5 +30,5 @@ A integração de IA não deve onerar o loop de telemetria em tempo real do Mend
 
 ### III. Suporte Multitenant (Múltiplas Máquinas)
 - **Problema:** O design atual atende apenas um nó único de equipamento.
-- **Solução:** Inclusão de chaves estrangeiras (`maquina_id`) no banco de dados e filtragem dinâmica no dashboard Mendix.
+- **Solução:** Inclusão de chaves estrangeiras (`machine_id`) no banco de dados e filtragem dinâmica no dashboard Mendix.
 - **Valor:** Escalabilidade comercial que permite à Setta monitorar plantas complexas com dezenas de equipamentos em uma única tela.
