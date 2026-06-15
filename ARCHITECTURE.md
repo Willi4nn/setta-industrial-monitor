@@ -23,4 +23,4 @@ Com 100 sensores publicando simultaneamente, o gargalo primário não reside no 
 ---
 ### Fluxo de Dados e Integração
 
-![Diagrama de Arquitetura do Sistema](./arquiteture.drawio.png)
+![Diagrama de Arquitetura do Sistema](./arquitecture.drawio.png)
